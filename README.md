@@ -12,7 +12,6 @@
 * Jim Campbell's Illustrator Lettering Tutorial [(Website)](http://clintflickerlettering.blogspot.com/2010/10/lettering-in-adobe-illustrator-one.html) [(PDF)](https://www.dropbox.com/s/2aragi0fu12c1vu/Lettering_Guide_Jim_Campbell.pdf?dl=0)
 * [Practice Pages](http://clintflickerlettering.blogspot.com/2010/12/thursday-surgery-unlettered-pages-with.html)
 * http://www.amazon.com/Comic-Book-Lettering-The-Comicraft/dp/0974056731
-* [Lessons in Lettering](http://pathscomic.com/2015/02/04/lessons-in-lettering/) by Reddit user /u/ShootZeeGlass
 
 ## Storefronts
 ### [Blambot](http://blambot.com/)
