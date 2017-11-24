@@ -1,5 +1,16 @@
 # Comic Book Lettering
 
+## Storefronts
+### [Blambot](http://blambot.com/)
+There are many great comic book fonts here. The paid fonts are top notch and affordable. There is also a plethora of free fonts.
+
+### [Comicraft](http://www.comicbookfonts.com/Default.asp)
+Tons of comic book fonts here, all or mostly pay fonts. 
+
+## Deals
+* Cyber Monday - Blambot fonts typically 30% off.
+* New Year Sale - Comicraft fonts all convert to $20.XX for a day. This includes the crazy expensive fonts and fonts that cost less than $20.
+
 ## Typefaces / Fonts
 List of typefaces and fonts that I personally use or want.
 
@@ -7,6 +18,7 @@ List of typefaces and fonts that I personally use or want.
 Lettering fonts intended for purchase, organized by type and most wanted to least wanted.
 
 #### Dialogue 
+* [Collect 'Em All BB](http://blambot.com/font_collectemall.shtml)
 * [Heavy Mettle BB](http://www.blambot.com/font_heavymettle.shtml)
 * [Out of Line BB](http://blambot.com/font_ool.shtml)
 * [Blambastic BB](http://blambot.com/font_blambastic.shtml)
