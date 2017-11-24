@@ -1,5 +1,19 @@
 # Comic Book Lettering
 
+## Resources
+* http://www.balloontales.com/
+* [Lettering Grammer](http://www.blambot.com/grammar.shtml) by Nate Piekos (Blambot)
+* [Better Letterer: Comic Lettering Tips](http://www.blambot.com/articles_tips.shtml) by Nate Piekos (Blambot)
+* [Comic Lettering Tutorial](http://chrisoatley.com/comic-lettering-comic-layout/) by Chris Oatley
+* http://chrissamnee.tumblr.com/post/87175204420/mylittledoxy-yopatrick-some-good-tips-about
+* https://twitter.com/blambot/status/517362038503669760/photo/1
+* [Scott McCloud: Lettering in Illustrator](https://www.youtube.com/watch?v=nhsqRjBehmw)
+* http://www.jimcampbell-lettering.co.uk/
+* Jim Campbell's Illustrator Lettering Tutorial [(Website)](http://clintflickerlettering.blogspot.com/2010/10/lettering-in-adobe-illustrator-one.html) [(PDF)](https://www.dropbox.com/s/2aragi0fu12c1vu/Lettering_Guide_Jim_Campbell.pdf?dl=0)
+* [Practice Pages](http://clintflickerlettering.blogspot.com/2010/12/thursday-surgery-unlettered-pages-with.html)
+* http://www.amazon.com/Comic-Book-Lettering-The-Comicraft/dp/0974056731
+* [Lessons in Lettering](http://pathscomic.com/2015/02/04/lessons-in-lettering/) by Reddit user /u/ShootZeeGlass
+
 ## Storefronts
 ### [Blambot](http://blambot.com/)
 There are many great comic book fonts here. The paid fonts are top notch and affordable. There is also a plethora of free fonts.
