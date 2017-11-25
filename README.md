@@ -17,19 +17,23 @@
 * [The Schweizer Guide to Spotting Tangents](https://curiousoldlibrary.blogspot.ca/2011/10/schweizer-guide-to-spotting-tangents.html)
 
 ## Storefronts
+Places to purchase and download comic-specific typefaces.
+
 ### [Blambot](http://blambot.com/)
 There are many great comic book fonts here. The paid fonts are top notch and affordable. There is also a plethora of free fonts.
 
 ### [Comicraft](http://www.comicbookfonts.com/Default.asp)
 Tons of comic book fonts here, all or mostly pay fonts. 
 
-## Typefaces / Fonts
-
 ### Deals
 * Cyber Monday - Blambot fonts typically 30% off.
 * New Year Sale - Comicraft fonts all convert to $20.XX for a day. This includes the crazy expensive fonts and fonts that cost less than $20.
 
+## Typefaces / Fonts
+This is a personal section that includes all the typefaces and fonts I have or want.
+
 ### Purchased/Downloaded Fonts
+These are fonts/typefaces I have personally purchased or downloaded.
 
 #### Dialogue
 * [Adam Kubert CC]()
