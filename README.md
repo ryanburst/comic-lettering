@@ -124,6 +124,6 @@ Lettering fonts intended for purchase, organized by type and most wanted to leas
 #### Character Voices / Miscellaneous
 * [Mjollnir BB](http://blambot.com/font_perihelion.shtml)
 * [Spellcaster CC](http://www.comicbookfonts.com/Spellcaster-p/cl320.htm)
-* [Resistance Is](http://www.comicbookfonts.com/Resistance-Is-p/cl302.htm)
+* [Resistance Is CC](http://www.comicbookfonts.com/Resistance-Is-p/cl302.htm)
 * [Near Myth CC](http://www.comicbookfonts.com/Near-Myth-p/cl311.htm) 
 
