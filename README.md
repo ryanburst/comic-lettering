@@ -9,7 +9,7 @@
 * [Lettering A Comic Book Page in Adobe Illustrator](https://www.youtube.com/watch?v=Rw9kaU73atM) by Meto Petkov [Video]
 * [San Diego Comic Fest 2014 - Comic Book Lettering & Production 10/19 Workshop](https://www.youtube.com/watch?v=1uE276JftSw) [Video]
 * [Jim Campbell's Blog](http://www.jimcampbell-lettering.co.uk/)
-* Jim Campbell's Illustrator Lettering Tutorial [(Website)](http://clintflickerlettering.blogspot.com/2010/10/lettering-in-adobe-illustrator-one.html) [(PDF)](https://www.dropbox.com/s/2aragi0fu12c1vu/Lettering_Guide_Jim_Campbell.pdf?dl=0)
+* [Illustrator Lettering Tutorial](http://clintflickerlettering.blogspot.com/2010/10/lettering-in-adobe-illustrator-one.html) by Jim Campbell [Website][(PDF)](https://www.dropbox.com/s/2aragi0fu12c1vu/Lettering_Guide_Jim_Campbell.pdf?dl=0)
 * [Practice Pages](http://clintflickerlettering.blogspot.com/2010/12/thursday-surgery-unlettered-pages-with.html)
 * [Balloon Tales](http://www.balloontales.com/)
 * [Comic Book Lettering: The Comicraft Way](http://www.amazon.com/Comic-Book-Lettering-The-Comicraft/dp/0974056731) [Amazon/Book]
