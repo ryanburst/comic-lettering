@@ -10,7 +10,7 @@
 * [San Diego Comic Fest 2014 - Comic Book Lettering & Production 10/19 Workshop](https://www.youtube.com/watch?v=1uE276JftSw) [Video]
 * [Jim Campbell's Blog](http://www.jimcampbell-lettering.co.uk/)
 * [Illustrator Lettering Tutorial](http://clintflickerlettering.blogspot.com/2010/10/lettering-in-adobe-illustrator-one.html) by Jim Campbell [Website][[PDF]](https://www.dropbox.com/s/2aragi0fu12c1vu/Lettering_Guide_Jim_Campbell.pdf?dl=0)
-* [Practice Pages](http://clintflickerlettering.blogspot.com/2010/12/thursday-surgery-unlettered-pages-with.html)
+* [Practice Pages](http://clintflickerlettering.blogspot.com/2010/12/thursday-surgery-unlettered-pages-with.html) by Jim Campbell
 * [Balloon Tales](http://www.balloontales.com/)
 * [Comic Book Lettering: The Comicraft Way](http://www.amazon.com/Comic-Book-Lettering-The-Comicraft/dp/0974056731) [Amazon/Book]
 * [Manga (Eastern Comics) Lettering](https://3.bp.blogspot.com/-TpZtTZPxnJU/WM-Xjl45BUI/AAAAAAAADRw/Hdq0S62hX6gmVystCRCbEaVWCmT4Qjh2gCLcB/s0/FA_MHA_89_20.jpg)
