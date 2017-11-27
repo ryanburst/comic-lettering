@@ -41,6 +41,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Alter Ego BB](http://blambot.com/font_alterego.shtml)
 * [Ashcan BB](http://blambot.com/font_ashcan.shtml)
 * [Back Issues BB](http://blambot.com/font_backissues.shtml)
+* [Collect 'Em All BB](http://blambot.com/font_collectemall.shtml)
 * [Comicrazy CC](http://www.comicbookfonts.com/Comicrazy-p/bl001.htm)
 * [Dave Gibbons CC](http://www.comicbookfonts.com/Dave-Gibbons-International-p/bl013i.htm)
 * [Digital Strip BB](http://blambot.com/font_digitalstrip.shtml)
@@ -74,6 +75,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Badaboom Pro BB](http://blambot.com/font_badaboompro.shtml)
 * [Biff Bam Boom CC](http://www.comicbookfonts.com/Biff-Bam-Boom-International-p/fx121i.htm)
 * [Full Bleed BB](http://blambot.com/font_fullbleed.shtml)
+* [Fight to the Finish BB](http://blambot.com/font_fttf.shtml)
 * [Killcrazy BB](http://blambot.com/font_killcrazy.shtml)
 * [Mega City CC](http://www.comicbookfonts.com/Mega-City-International-p/fx139i.htm)
 * [One Two Punch BB](http://blambot.com/font_onetwopunch.shtml)
@@ -101,7 +103,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 Lettering fonts intended for purchase, organized by type and most wanted to least wanted.
 
 #### Dialogue 
-* [Collect 'Em All BB](http://blambot.com/font_collectemall.shtml)
+* [~~Collect 'Em All BB~~](http://blambot.com/font_collectemall.shtml)
 * [Heavy Mettle BB](http://www.blambot.com/font_heavymettle.shtml)
 * [Out of Line BB](http://blambot.com/font_ool.shtml)
 * [Blambastic BB](http://blambot.com/font_blambastic.shtml)
@@ -113,7 +115,7 @@ Lettering fonts intended for purchase, organized by type and most wanted to leas
 * [Near Myth CC](http://www.comicbookfonts.com/Near-Myth-p/cl311.htm) 
 
 #### SFX
-* [Fight to the Finish BB](http://blambot.com/font_fttf.shtml)
+* [~~Fight to the Finish BB~~](http://blambot.com/font_fttf.shtml)
 * [Battle Scarred CC](http://www.comicbookfonts.com/Battle-Scarred-p/fx124.htm)
 * [Zzzap CC](http://www.comicbookfonts.com/Zzzap-p/fx127.htm)
 * [Frost Bite CC](http://www.comicbookfonts.com/Frostbite-p/fx109.htm)
