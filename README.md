@@ -82,7 +82,6 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Piekos FX BB](http://blambot.com/font_piekosfx.shtml)
 * [Battle Scarred CC](http://www.comicbookfonts.com/Battle-Scarred-p/fx124.htm)
 * [KillSwitch CC](https://www.comicbookfonts.com/KillSwitch-p/fx141.htm)
-* [Primal Scream CC](https://www.comicbookfonts.com/Primal-Scream-p/fx122.htm)
 
 #### Design / Narration
 * [Arr Matey BB](http://blambot.com/font_arrrmatey.shtml)
@@ -126,6 +125,7 @@ Lettering fonts intended for purchase, organized by type and most wanted to leas
 * [Frost Bite CC](http://www.comicbookfonts.com/Frostbite-p/fx109.htm)
 * [Clobberin Time CC](http://www.comicbookfonts.com/Clobberin-Time-p/fx101.htm)
 * [Ratatatat CC](http://www.comicbookfonts.com/Ratatatat-p/fx131.htm)
+* [Primal Scream CC](https://www.comicbookfonts.com/Primal-Scream-p/fx122.htm)
 
 #### Design / Narration
 * [Friend or Foe BB](http://blambot.com/font_friendorfoe.shtml)
