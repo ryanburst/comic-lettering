@@ -80,6 +80,8 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Mega City CC](http://www.comicbookfonts.com/Mega-City-International-p/fx139i.htm)
 * [One Two Punch BB](http://blambot.com/font_onetwopunch.shtml)
 * [Piekos FX BB](http://blambot.com/font_piekosfx.shtml)
+* [Battle Scarred CC](http://www.comicbookfonts.com/Battle-Scarred-p/fx124.htm)
+* [KillSwitch CC](https://www.comicbookfonts.com/KillSwitch-p/fx141.htm)
 
 #### Design / Narration
 * [Arr Matey BB](http://blambot.com/font_arrrmatey.shtml)
