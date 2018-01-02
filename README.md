@@ -81,7 +81,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [One Two Punch BB](http://blambot.com/font_onetwopunch.shtml)
 * [Piekos FX BB](http://blambot.com/font_piekosfx.shtml)
 
-#### Design
+#### Design / Narration
 * [Arr Matey BB](http://blambot.com/font_arrrmatey.shtml)
 * [Betty Noir BB](http://blambot.com/font_bettynoir.shtml)
 * [Chewed Pen BB](http://blambot.com/font_chewedpen.shtml)
@@ -107,17 +107,19 @@ Lettering fonts intended for purchase, organized by type and most wanted to leas
 * [Heavy Mettle BB](http://www.blambot.com/font_heavymettle.shtml)
 * [Out of Line BB](http://blambot.com/font_ool.shtml)
 * [Blambastic BB](http://blambot.com/font_blambastic.shtml)
-* [Sez Who Sez You CC](http://www.comicbookfonts.com/Sez-Who-Sez-You-p/fx110.htm)
 
 #### Character Voices / Non-traditional Dialogue
 * [Spellcaster CC](http://www.comicbookfonts.com/Spellcaster-p/cl320.htm)
 * [Resistance Is CC](http://www.comicbookfonts.com/Resistance-Is-p/cl302.htm)
 * [Near Myth CC](http://www.comicbookfonts.com/Near-Myth-p/cl311.htm) 
+* [Sez Who Sez You CC](http://www.comicbookfonts.com/Sez-Who-Sez-You-p/fx110.htm)
+* [Spooky Tooth CC](https://www.comicbookfonts.com/Spooky-Tooth-International-p/cl305i.htm)
 
 #### SFX
 * [~~Fight to the Finish BB~~](http://blambot.com/font_fttf.shtml)
-* [Battle Scarred CC](http://www.comicbookfonts.com/Battle-Scarred-p/fx124.htm)
+* [~~Battle Scarred CC~~](http://www.comicbookfonts.com/Battle-Scarred-p/fx124.htm)
 * [Zzzap CC](http://www.comicbookfonts.com/Zzzap-p/fx127.htm)
+* [~~KillSwitch CC~~](https://www.comicbookfonts.com/KillSwitch-p/fx141.htm)
 * [Frost Bite CC](http://www.comicbookfonts.com/Frostbite-p/fx109.htm)
 * [Clobberin Time CC](http://www.comicbookfonts.com/Clobberin-Time-p/fx101.htm)
 * [Ratatatat CC](http://www.comicbookfonts.com/Ratatatat-p/fx131.htm)
