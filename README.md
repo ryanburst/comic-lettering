@@ -82,6 +82,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Piekos FX BB](http://blambot.com/font_piekosfx.shtml)
 * [Battle Scarred CC](http://www.comicbookfonts.com/Battle-Scarred-p/fx124.htm)
 * [KillSwitch CC](https://www.comicbookfonts.com/KillSwitch-p/fx141.htm)
+* [Primal Scream CC](https://www.comicbookfonts.com/Primal-Scream-p/fx122.htm)
 
 #### Design / Narration
 * [Arr Matey BB](http://blambot.com/font_arrrmatey.shtml)
