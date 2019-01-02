@@ -26,7 +26,7 @@ There are many great comic book fonts here. The paid fonts are top notch and aff
 Tons of comic book fonts here, all or mostly pay fonts. 
 
 ### Deals
-* 10% of Pro Blambot Fonts - Year round, check the footer of https://www.blambot.com for the current discount code.
+* 10% off Pro Blambot Fonts - Year round, check the footer of https://www.blambot.com for the current discount code.
 * Cyber Monday - Blambot fonts typically 30% off.
 * New Year Sale - Comicraft fonts all convert to $20.XX for a day. This includes the crazy expensive fonts and fonts that cost less than $20.
 
