@@ -40,7 +40,6 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Ale and Wenches BB](http://blambot.com/font_aleandwenches.shtml)
 * [Adam Kubert CC](http://www.comicbookfonts.com/Adam-Kubert-International-p/bl018i.htm)
 * [Alter Ego BB](http://blambot.com/font_alterego.shtml)
-* [Ashcan BB](http://blambot.com/font_ashcan.shtml)
 * [Ask for Mercy CC](https://www.comicbookfonts.com/Ask-For-Mercy-p/bl071.htm)
 * [Back Issues BB](http://blambot.com/font_backissues.shtml)
 * [Collect 'Em All BB](http://blambot.com/font_collectemall.shtml)
@@ -63,6 +62,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Wall Scrawler CC](http://www.comicbookfonts.com/Wall-Scrawler-International-p/bl020i.htm)
 
 #### Character Voices / Non-traditional Dialogue
+* [Ashcan BB](http://blambot.com/font_ashcan.shtml)
 * [Desctucto Beam BB](http://blambot.com/font_destructobeam.shtml)
 * [Dragonbones BB](http://blambot.com/font_dragonbones.shtml)
 * [Mainframe BB](http://blambot.com/font_mainframe.shtml)
@@ -87,6 +87,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [One Two Punch BB](http://blambot.com/font_onetwopunch.shtml)
 * [Piekos FX BB](http://blambot.com/font_piekosfx.shtml)
 * [Primal Scream CC](https://www.comicbookfonts.com/Primal-Scream-p/fx122.htm)
+* [The Story Begins & Ends CC](http://www.comicbookfonts.com/The-Story-Begins-End-International-p/dl274i.htm)
 
 #### Design / Narration
 * [Arr Matey BB](http://blambot.com/font_arrrmatey.shtml)
@@ -94,13 +95,19 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Chewed Pen BB](http://blambot.com/font_chewedpen.shtml)
 * [Creator Credits BB](http://blambot.com/font_creatorcredits.shtml)
 * [Detectives Inc BB](http://blambot.com/font_detectivesinc.shtml)
+* [Destroy Earth BB](http://www.blambot.com/font_destroyearth.shtml)
+* [Dreamland Display CC](http://www.comicbookfonts.com/Dreamland-International-p/cl317i.htm)
 * [Excalibur Sword CC](http://www.comicbookfonts.com/Excalibur-Sword-International-p/dl266i.htm)
+* [Firefight BB](http://www.blambot.com/font_firefight.shtml)
+* [Flyboy BB](http://www.blambot.com/font_flyboy.shtml)
+* [Government Agent BB](http://www.blambot.com/font_govtagent.shtml)
 * [Honeymead BB](http://blambot.com/font_honeymead.shtml)
 * [Marooned on Mars BB](http://blambot.com/font_mom.shtml)
 * [Polyhedral BB](http://blambot.com/font_polyhedral.shtml)
+* [Population Zero BB](http://www.blambot.com/font_popzero.shtml)
+* [Saucer BB](http://www.blambot.com/font_saucer.shtml)
 * [Seven Monkey Fury BB](http://blambot.com/font_7monkeyfury.shtml)
 * [Straight to Hell BB](http://blambot.com/font_sth.shtml)
-* [The Story Begins & Ends CC](http://www.comicbookfonts.com/The-Story-Begins-End-International-p/dl274i.htm)
 
 #### Special
 * [Stonehenge Runes CC](http://www.comicbookfonts.com/Stonehenge-Runes-p/cl312f.htm)
