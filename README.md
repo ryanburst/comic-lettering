@@ -65,6 +65,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Ashcan BB](http://blambot.com/font_ashcan.shtml)
 * [Desctucto Beam BB](http://blambot.com/font_destructobeam.shtml)
 * [Dragonbones BB](http://blambot.com/font_dragonbones.shtml)
+* [Forked Tongue CC](https://www.comicbookfonts.com/Forked-Tongue-p/cl321.htm)
 * [Mainframe BB](http://blambot.com/font_mainframe.shtml)
 * [Man Eater BB](http://blambot.com/font_maneater.shtml)
 * [Man Machine BB](http://blambot.com/font_manmachine.shtml)
@@ -108,6 +109,7 @@ These are fonts/typefaces I have personally purchased or downloaded.
 * [Saucer BB](http://www.blambot.com/font_saucer.shtml)
 * [Seven Monkey Fury BB](http://blambot.com/font_7monkeyfury.shtml)
 * [Straight to Hell BB](http://blambot.com/font_sth.shtml)
+* [To Be Continued CC](https://www.comicbookfonts.com/To-Be-Continued-International-p/dl214i.htm)
 
 #### Special
 * [Stonehenge Runes CC](http://www.comicbookfonts.com/Stonehenge-Runes-p/cl312f.htm)
@@ -153,6 +155,6 @@ Lettering fonts intended for purchase, organized by type and most wanted to leas
 * [Perihelion BB](http://blambot.com/font_perihelion.shtml)
 * [Quahog BB](http://blambot.com/font_quahog.shtml)
 * [Spell Breaker BB](http://blambot.com/font_spellbreaker.shtml)
-* [To Be Continued CC](https://www.comicbookfonts.com/To-Be-Continued-International-p/dl214i.htm)
+* [~~To Be Continued CC~~](https://www.comicbookfonts.com/To-Be-Continued-International-p/dl214i.htm)
 * [Unearthed BB](http://blambot.com/font_unearthed.shtml)
 * [Wiccan CC](https://www.comicbookfonts.com/Wiccan-International-p/cl309i.htm)
